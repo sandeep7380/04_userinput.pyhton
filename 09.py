@@ -1,0 +1,5 @@
+l=float(input("Enter Length"))
+w=float(input("Enter Width"))
+h=float(input("Enyer Height"))
+cub=(l*w*h)
+print("volume of cuboid=",cub)
